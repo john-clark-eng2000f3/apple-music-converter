@@ -11,3 +11,5 @@ pip install -r requirements.txt
 python convert.py --lastfm-user myusername --apple-token "Bearer abc..."
 
 Cache lives in ~/.cache/apple-music-converter/ so re-runs are fast. Delete that dir if you want a fresh pull.
+
+<!-- verified: 2026-10-04 -->
